@@ -79,8 +79,8 @@ Vexide-MM2 is a Murder Mystery 2 script hub built with [WindUI](https://github.c
 3. Press **Insert** to open or close the UI.
 
 ```lua
--- Load the script in your executor
--- (paste the full Vexide-MM2 script here)
+-- loadstring(game:HttpGet("https://raw.githubusercontent.com/gunkuspaper-cmyk/Vexide/refs/heads/main/MAIN"))()
+--
 ```
 
 The UI is powered by WindUI and loads automatically from GitHub on run.
